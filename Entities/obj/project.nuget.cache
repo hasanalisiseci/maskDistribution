@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "inVFj8Y/efBEJAR8rfD7yDR13Msm/hv2G4xC70GyWNkGw26s5rq0kB+RbLZwmh/0dSZMS4Qj5NAH6hbWIdf0cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acsiseci\\source\\repos\\MaskeTakip\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acsiseci\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\acsiseci\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
